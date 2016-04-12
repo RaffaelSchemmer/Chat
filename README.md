@@ -8,7 +8,7 @@ Chat (Na visão de usuário):
 * Cilente (Permite conexões entre o servidor).
 ```
 
-Compilando o código fonte do Servidor/Cliente (Utilizando GNU GCC):
+Compilando o código fonte do Servidor/Cliente (GNU GCC):
 -----------
 ```
 gcc server.c -lpthread -o servidor
