@@ -12,7 +12,7 @@ Compilando o código fonte do Servidor/Cliente (GNU GCC):
 -----------
 ```
 gcc server.c -lpthread -o servidor
-gcc cliente.c -o cliente
+gcc client.c -lpthread -o cliente
 ```
 
 Executando o servidor
